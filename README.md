@@ -10,7 +10,7 @@
       - MAVEN_HOME
       - PATH=%MAVEN_HOME%\bin
 
-4 www.gradle.org
+4. www.gradle.org
       - C:\Program Files\에 설치
       - GRADLE_HOME
       - PATH=%GRADLE_HOME%\bin
