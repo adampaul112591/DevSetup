@@ -1,4 +1,3 @@
-<h1>sdkfj</h>
 1. java.sun.com
       - JAVA_HOME
       - PATH=%JAVA_HOME%\bin;~~~
