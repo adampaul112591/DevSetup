@@ -3,7 +3,7 @@
       - PATH=%JAVA_HOME%\bin;~~~
 
 2. www.git-scm.com
-       - git down load
+      - git down load
 
 3. maven.apache.org
       - C:\Program Files\에 설치
