@@ -9,6 +9,14 @@
 
 // Apply the java plugin to add support for Java
 apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'com.hybrid.MainApplication'
+
+[compileJava,compileTestJava]*.options*.encoding = 'UTF-8'
+
+eclipse.classpath.defaultOutputDir = file("${buildDir}/classes/main")
 
 // In this section you declare where to find the dependencies of your project
 repositories {
